@@ -1,0 +1,5 @@
+python 3 
+faiss
+streamlit
+rank_bm25
+sentence_transformers
